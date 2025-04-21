@@ -20,7 +20,7 @@ Welcome to the **Basic Python Code Repository**! This repository contains a coll
     ```
 2. Navigate to the project directory:
     ```bash
-    cd basic-python-code
+    cd python_basics
     ```
 3. Run any script using Python:
     ```bash
