@@ -1,0 +1,6 @@
+print("Greetings")
+name = input('pls enter your name: ')
+dateday = int(input('current date?in day :'))
+datemnt =int(input('Month: '))
+dateyr=int(input ('year :'))
+print(f'Hello Mr/Mrs{name}, \n You are selected for interview\n Date {dateday} {datemnt} {dateyr}')
