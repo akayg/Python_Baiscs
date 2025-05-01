@@ -2,6 +2,14 @@
 
 Welcome to the **Basic Python Code Repository**! This repository contains a collection of simple Python scripts designed to help beginners understand fundamental programming concepts.
 
+## Table of Contents
+
+- [Contents](#contents)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Contents
 
 - **Hello World**: A basic script to print "Hello, World!".
@@ -14,17 +22,19 @@ Welcome to the **Basic Python Code Repository**! This repository contains a coll
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository from [GitHub](https://github.com/akay/python_basics.git):
     ```bash
     git clone https://github.com/akay/python_basics.git
     ```
+
 2. Navigate to the project directory:
     ```bash
     cd python_basics
     ```
+
 3. Run any script using Python:
     ```bash
-    python script_name.py
+    python hello_world.py  # Replace with your script name
     ```
 
 ## Prerequisites
@@ -39,5 +49,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
 
 Happy coding!
