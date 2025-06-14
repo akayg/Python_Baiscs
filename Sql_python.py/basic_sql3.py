@@ -2,7 +2,7 @@ import sqlite3  # Import the SQLite library to interact with SQLite databases.
 
 # Establish a connection to the SQLite database file "mydb.db".
 # If the file does not exist, it will be created.
-conn = sqlite3.connect("mydb.db")
+conn = sqlite3.connect("student.db")
 
 # Create a cursor object to execute SQL commands.
 cursor = conn.cursor()
