@@ -1,0 +1,2 @@
+#Rename this file to api_key.toml from api_key.toml.example
+api_key_weather="Your api key from open weather"
