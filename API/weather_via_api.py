@@ -5,7 +5,7 @@ config = toml.load("API/api_key.toml")
 
 # Access api key
 api_key = config["api_open"]
-city=input("Enter city")
+city=input("Enter city ")
 url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
 
 response = requests.get(url)
